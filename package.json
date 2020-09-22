@@ -1,7 +1,7 @@
 {
-  "name": "data-center",
+  "name": "datacentertower",
   "version": "1.0.0",
-  "description": "Data Center Security tower",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
